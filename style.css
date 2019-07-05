@@ -58,9 +58,12 @@
     font-weight: 300; }
   #resume .job-place i {
     margin-right: 10px; }
+  #resume .project-container {
+    margin-left: 10px; }
+  #resume .project-list-title {
+    font-weight: 500;
+    margin-top: 10px; }
   #resume .fa {
     color: #006400; }
     #resume .fa.not-selected {
       color: rgba(0, 100, 0, 0.5); }
-
-/*# sourceMappingURL=style.css.map */
